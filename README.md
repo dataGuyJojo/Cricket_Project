@@ -40,15 +40,18 @@ Each dashboard includes filters to allow dynamic data exploration.
 
 ### Best Performing Team Dashboard
 
-![image.png](attachment:f8661ef6-ffce-40fd-b14f-a0254f823865:image.png)
+![image](https://github.com/user-attachments/assets/adb02a44-18ec-4fac-b3b1-9fb012fc641c)
+
 
 ### Best Performing Batsman Dashboard
 
-![image.png](attachment:93511558-31bb-46b1-80a0-5be8a8afcc01:image.png)
+![image](https://github.com/user-attachments/assets/2db46e56-946f-4d63-86b5-839a3c3c91c7)
+
 
 ### Single Player Insights Dashboard
 
-![image.png](attachment:51cc9b71-0ae8-4085-b11a-9c2c7256db8c:image.png)
+![image](https://github.com/user-attachments/assets/8b87960b-9e5f-4a18-a2d9-02e72927272f)
+
 
 ## How to Use
 
