@@ -22,7 +22,7 @@ The analysis is presented through three Power BI dashboards:
 
 1. **Best Performing Team**: Identifies the most successful teams based on match results.
 2. **Best Performing Batsman**: Highlights top batsmen based on runs, strike rates, and consistency.
-3. **Player Insights**: Allows users to search for a specific player and analyze their performance across different matches.
+3. **Player Insights**: Users can search for a specific player and analyze their performance across different matches.
 
 Each dashboard includes filters to allow dynamic data exploration.
 
@@ -60,19 +60,15 @@ Each dashboard includes filters to allow dynamic data exploration.
 3. Use the filters to refine the data and extract insights.
 4. Refer to the **Completed_Cricket.pdf** for an overview of the visualizations.
 
-## Future Enhancements
-
-- Adding more advanced visualizations like predictive analysis for future matches.
-- Incorporating bowling performance statistics.
-- Enhancing interactivity with additional filters and drill-through options.
 
 ## Author
 
-- **[Your Name]**
-- **Contact:** [Your Email]
+- **Syed Asif Johan**
+- **Contact:** connect.syedasifjohan@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/syed-asif-johan-0a4888292/
 
 ## License
 
-This project is open-source and can be used for learning and analysis purposes. Attribution is appreciated!
+This project is open-source and can be used for learning and analysis purposes. **Attribution is appreciated!**
 
 ---
